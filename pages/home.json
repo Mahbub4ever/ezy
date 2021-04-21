@@ -1,0 +1,34 @@
+{
+    "hero": {
+        "header": "Eat and Drink Healthy <br> and Natural Foods!",
+        "subtext": "In Global Web Cuisine, we only brew the freshest food from all around the world. We serve the mouth watering dishes",
+        "bg_image": "/images/barista.jpg"     
+    },
+    "about": {
+        "header": "Welcome to Global Web Cuisine.",
+        "subtext": "Welcome to our Global Web Cuisine! We hope you enjoy our broad selection of premium global cuisine from all over the world. We provide good customer service in a clean environment that helps to enhance overall experience of the restaurant. The staff who interact with the customers are courteous and maintain a positive attitude. Servers have the knowledge of the menu well, and they deliver guests’ food and drinks on time, and quickly address any issues that an unsatisfied guest may have.",
+        "bg_image": "/images/barista-2.jpg",
+        "images": [
+            {"image": "/images/lunch-4.jpg", "caption": "European Organic Crabs"},
+            {"image": "/images/lunch-7.jpg", "caption": "European Organic Chicken"},
+            {"image": "/images/lunch-6.jpg", "caption": "European Organic Mutton"}
+        ]
+    },
+        "team": {
+            "subheader": "Team",
+            "header": "Meet The Team!",
+            "img_background": "/images/cafe.jpg",
+            "members": [
+                { "name":"Mahbub", "image": "/images/person_1.jpg", "quote": "Most delicious food I have ever eaten. I highly recommend this restaurant for those looking for yummy foods.", "position": "owner"},
+                { "name":"Nasreen", "image": "/images/person_2.jpg", "quote": "The huge variety of meals is superb, and along with the setting of the restaurant, this is marvellous.", "position": "co-owner"},
+                { "name":"Ayan", "image": "/images/person_3.jpg", "quote": "Love the great food, service and environment... Simply epic. ", "position": "junior owner"},
+                { "name":"Shafiq", "image": "/images/person_4.jpg", "quote": "What a lovely restaurant, good food and service and atmosphere, definitely hope to go back.", "position": "financer"},
+                { "name":"Tukku van Centrum ", "image": "/images/person_5.jpg", "quote": "Excellent environment, friendly service, great menu choices and really decent food and at affordable prices. Will be back.", "position": "adviser"}
+            ]
+        },
+        "order": {
+            "subheader": "Book a Table",
+            "header": "Make Reservation",
+            "img_background": "/images/chef-2.jpg"
+        }
+}

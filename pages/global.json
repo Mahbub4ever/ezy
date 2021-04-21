@@ -1,0 +1,9 @@
+{
+    "title": "Global Web Cuisine",
+    "description": "Welcome to our Global Web Cuisine! We hope you enjoy our broad selection of premium global cuisine from all over the world.",
+    "hours": [
+        { "days": "Mon - Fri", "time": "7:00 AM - 10:00 PM" },
+        { "days": "Saturday", "time": "8:00 AM - 11:00 PM" },
+        { "days": "Sunday", "time": "8:00 AM - 10:00 PM" }
+    ]
+}
