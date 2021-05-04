@@ -3,6 +3,7 @@ const vertex = require('vertex360')({ site_id: process.env.TURBO_APP_ID })
 const express = require('express')
 
 const app = express() // initialize app
+const port = process.env.PORT || 5000
 
 /*  Apps are configured with settings as shown in the conig object below.
     Options include setting views directory, static assets directory,

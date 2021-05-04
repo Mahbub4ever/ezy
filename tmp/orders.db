@@ -1,3 +1,0 @@
-{"name":"mahbub","email":"enjoymath9@gmail.com","order":"I would like to order \r\n\r\n1) Mutton Biryani 1 kg\r\n2) Roasted Mutton 1 plate\r\n3) Chicken Curry 1/2 plate\r\n4) Raita 1\r\n","schema":"order","timestamp":{"$$date":1618742299914},"_id":"HXUs0CxQxZ57Ra2K"}
-{"name":"mahbub","email":"enjoymath9@gmail.com","order":"I would like to order 1) Mutton Biryani 1 kg. 2) Roasted Mutton 1 plate. 3) Chicken Curry 1/2 plate. 4) Raita 1","schema":"order","timestamp":{"$$date":1618727593573},"opts":null,"_id":"UBgNRJdJBq843TDf"}
-{"name":"abc","email":"abc@abc.com","order":"abc abc 123","schema":"order","timestamp":{"$$date":1618743075742},"_id":"Y8MWGqy3djyt0B3l"}
